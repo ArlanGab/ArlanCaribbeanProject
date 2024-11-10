@@ -1,0 +1,16 @@
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\bin\Debug\IngalProject3.exe.config
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\bin\Debug\IngalProject3.exe
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\bin\Debug\IngalProject3.pdb
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\bin\Debug\IngalProject3.xml
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.vbprojAssemblyReference.cache
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.CustomerAccs.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.Login.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.Resources.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.Register.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.vbproj.GenerateResource.cache
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.exe
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.xml
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.pdb
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.CustomerReservations.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.Reservation.resources
+C:\Users\AMD\source\repos\IngalProject3\IngalProject3\obj\Debug\IngalProject3.AccountSettings.resources
